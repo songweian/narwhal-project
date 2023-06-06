@@ -22,11 +22,15 @@
 
 
   <modules>
+    <module>narwhal-httpclient</module>
+    <module>narwhal-config</module>
+    <module>narwhal-web</module>
     <module>narwhal-spring-boot</module>
     <module>narwhal-dependencies</module>
     <module>narwhal-parent</module>
-    <module>narwhal-example</module>
     <module>narwhal-log</module>
+    <module>narwhal-spring-boot-starters/narwhal-spring-boot-starter-logging</module>
+    <module>narwhal-example</module>
   </modules>
 
 </project>
