@@ -22,6 +22,7 @@
 
 
   <modules>
+    <module>narwhal-redis</module>
     <module>narwhal-httpclient</module>
     <module>narwhal-config</module>
     <module>narwhal-web</module>
@@ -29,7 +30,9 @@
     <module>narwhal-dependencies</module>
     <module>narwhal-parent</module>
     <module>narwhal-log</module>
+    <module>narwhal-spring-boot-starters/narwhal-spring-boot-starter-config</module>
     <module>narwhal-spring-boot-starters/narwhal-spring-boot-starter-logging</module>
+    <module>narwhal-spring-boot-starters/narwhal-spring-boot-starter-redis</module>
     <module>narwhal-example</module>
   </modules>
 
